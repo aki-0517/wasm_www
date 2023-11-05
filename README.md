@@ -1,4 +1,5 @@
 <div align="center">
+https://rustwasm.github.io/docs/book/introduction.html
 
   <h1><code>create-wasm-app</code></h1>
 
